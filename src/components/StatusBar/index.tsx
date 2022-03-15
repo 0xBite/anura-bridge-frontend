@@ -39,6 +39,7 @@ const StatusBar = () => {
   console.log("connectData", connectData);
   console.log("accountData", accountData);
   console.log("balanceData", balanceData);
+  console.log("end");
   useEffect(() => {
     //  getBalance();
     connect(connector);
