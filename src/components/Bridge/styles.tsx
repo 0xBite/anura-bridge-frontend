@@ -1,0 +1,61 @@
+const styles = {
+  bridgeContainer: {
+    width: "56vw",
+    justify: "center",
+    alignItems: "center",
+    gap: "20px",
+  },
+  bridgeContent: {
+    backgroundColor: "#041716",
+    width: "70%",
+    height: "70%",
+    borderRadius: "8px",
+  },
+  chainContainer: {
+    justify: "center",
+    alignItems: "center",
+    borderRadius: "8px",
+    borderWidth: "2px",
+    borderColor: "#28376C",
+    backgroundColor: "#041716",
+    height: "70px",
+    gap: "10px",
+    width: "100%",
+  },
+  fromToChainText: {
+    marginTop: "8px",
+    fontWeight: "medium",
+    fontSize: "lg",
+    color: "#A4A4A4",
+  },
+  switchContainer: {
+    backgroundColor: "#041716",
+    justify: "center",
+    alignItems: "center",
+    margin: "auto",
+    borderWidth: "1px",
+    borderRadius: "full",
+    borderColor: "#393939",
+    width: "70px",
+    height: "70px",
+  },
+  amountContainer: {
+    marginTop: "60px",
+    width: "100%",
+    height: "100px",
+    backgroundColor: "#1B2D29",
+    borderRadius: "8px",
+  },
+  bridgeButton: {
+    justify: "center",
+    width: "100%",
+    padding: "30px",
+    borderRadius: "8px",
+  },
+  bridgeText: {
+    color: "white",
+    fontSize: "xl",
+    fontWeight: "semibold",
+  },
+};
+export default styles;

@@ -1,0 +1,22 @@
+.menu-item {
+  padding: 10px;
+  border: 2px solid transparent;
+  border-radius: 10px;
+}
+
+.menu-item-active {
+  background: linear-gradient(#041716 0 0) padding-box,
+    linear-gradient(to right, #b3a422, #d48b47) border-box;
+  padding: 10px;
+  border: 2px solid transparent;
+  border-radius: 10px;
+}
+
+.multi-chain-bridge {
+  background: linear-gradient(170.71deg, #eadb9b 0%, #d48b47 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -moz-text-fill-color: transparent;
+  -webkit-text-fill-color: transparent;
+}
